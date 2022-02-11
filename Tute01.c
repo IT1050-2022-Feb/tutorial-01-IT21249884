@@ -5,8 +5,9 @@
 #include <stdio.h>
 
 int main() {
-  float n1, n2;
-  float average, sum;
+  //Variable declaration
+  float n1, n2;   //Variable declaration for the two numbers
+  float average, sum;//Variables to indicate summation and the average
   
   //Getting user inputs...
   printf(" Enter the first mark...  "); //prompt
